@@ -2,8 +2,8 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Harsh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/harsh-malaviya-8122a41b6/)](https://www.linkedin.com/in/harsh-malaviya-8122a41b6/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
+[![Website Badge](https://img.shields.io/badge/WebSite-Harsh-green)](https://www.akash)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Harsh-yellow)](https://stackoverflow.com/users/19413176/harsh-malaviya)
 
 I'm
 Full Stack Solution Architect
